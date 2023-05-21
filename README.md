@@ -15,3 +15,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEFAT-MAHADI&theme=vue)
 
 <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+
+<br>
+<p align="center">
+<a href="https://github.com/SEFAT-MAHADI/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SEFAT-MAHADI&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+ 
